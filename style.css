@@ -1,0 +1,198 @@
+*{
+    margin: 0px;
+    margin-bottom: 5px;
+    font-family: auto;
+}
+header{
+    display: flex;
+    background-color: black;
+    color: white;
+    padding-left: 34px;
+    margin-bottom: 0px;
+}
+form{
+    margin-top: 12px;
+    margin-left: 350px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+}
+input{
+    padding-right: 124px;
+    padding-top: 5px;
+    text-align: left;
+    margin-bottom: 0px;
+    padding-bottom:0px;
+}
+::placeholder{
+    font-size: large;
+}
+nav{
+    display: flex;
+    
+}
+.x{
+    padding-top: 22px;
+    padding: 5px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    
+}
+.c{
+    margin-bottom: 2px;
+}    
+.b{
+    font-size: 35px;
+    text-decoration: none;
+}
+.a{
+    font-size: 30px;
+}
+.abc{
+    background-image: url("matrix-hacker-background_23-2150082008.jpg");
+    background-size: cover;
+    height: 591px;
+}
+.aaa{
+    font-size: 70px;
+    color: aliceblue;
+    padding-top: 50px;
+    padding-left: 250px;
+}
+.acc{
+    font-size: 70px;
+    color: aliceblue;
+    padding-top: 0px;
+    padding-left: 370px;
+}
+.er{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+.va{
+    text-align: left;
+    color: red;
+    font-size: 40px;
+}
+.xcv{
+    font-size: 30px;
+}
+.fgh{
+    height: 190px;
+    width: 390px;
+    margin: 5px;
+    margin-bottom: 0px;
+}
+.df{
+    display: flex;
+}
+.agh{
+    height: 190px;
+    width: 390px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+}
+.bgh{
+    height: 190px;
+    width: 390px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+}
+.cgh{
+    height: 190px;
+    width: 390px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+}
+.vgh{
+    margin-top: 0px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    width: 1338px;
+    height: 700px;
+}
+.fghg{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+    margin-bottom: 100px;
+}
+.sasa{
+    font-size: 40px;
+    color: yellowgreen;
+}
+.tv{
+    font-size: 30px;
+}
+.vbn{
+    background-image: url("anonymous-mask-successful-making-password-encryption-hack-laptop-pecuniary_31965-299788.jpg");
+    background-size: cover;
+    height: 900px;
+}
+.z{
+    color: aliceblue;
+    text-align: center;
+    font-size: 80px;
+}
+.zr{
+    background-color: black;
+}
+.rz{
+    color: white;
+    text-align: center;
+    bottom: auto;
+    margin-bottom: -20px;
+}
+.ae{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+.aae{
+    color: yellowgreen;
+    font-size: 40px;
+}
+.wwe{
+    font-size: 30px;
+}
+.zzz{
+    width: 665px;
+    height: 450px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+}
+.zzn{
+    margin-left: 5px;
+    width: 670px;
+    height: 450px;
+    margin-bottom: 0px;
+}
+.zzzz{
+    height: 400px;
+    width: 600px;
+}
+.jo{
+    font-size: 100px;
+    text-align: end;
+    justify-content: center;
+     text-decoration: double;
+     text-decoration: none;
+    color: black;
+    background-color: rgb(153, 160, 160);
+    border-radius: 20px;
+    border-color: black;
+    position: absolute;
+    border-style: solid;
+}
+    
